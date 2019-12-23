@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1036804230217-pjlrcgsdjr4l5k7gv12vb7sbmnod6clg.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://guides-5c1f6.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1036804230217</string>
+    <string name="google_api_key" translatable="false">AIzaSyARe_hV9la0sfhnMA5qD9h8ldDAK2Brghg</string>
+    <string name="google_app_id" translatable="false">1:1036804230217:android:bbcd7664a046caae474398</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyARe_hV9la0sfhnMA5qD9h8ldDAK2Brghg</string>
+    <string name="google_storage_bucket" translatable="false">guides-5c1f6.appspot.com</string>
+    <string name="project_id" translatable="false">guides-5c1f6</string>
+</resources>

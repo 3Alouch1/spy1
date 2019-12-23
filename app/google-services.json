@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "672683732792",
+    "firebase_url": "https://spypy-f978a.firebaseio.com",
+    "project_id": "spypy-f978a",
+    "storage_bucket": "spypy-f978a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672683732792:android:6cb2059856fdf57d96dbcd",
+        "android_client_info": {
+          "package_name": "com.github.midros.istheapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672683732792-rp7utkvhqek69hlot1dktu2k654j6hmd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.github.midros.istheapp",
+            "certificate_hash": "09bdea00510ed72d53b3074dd9a95bf0335208b3"
+          }
+        },
+        {
+          "client_id": "672683732792-inevns1reibeoahtq6em3imbkhi8no03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfri_tc2dfdT_yGDH-8mjvuoSTBLxcWLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672683732792-inevns1reibeoahtq6em3imbkhi8no03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

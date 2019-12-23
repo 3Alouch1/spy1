@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.romancha:MaterialPlayPauseViewButton:1.0.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7b046852f423716b3b1299e44a04f87d/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/7b046852f423716b3b1299e44a04f87d/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.romancha/MaterialPlayPauseViewButton/1.0.1/a8185063640819106afbed67e793c2d3ca0d46f5/MaterialPlayPauseViewButton-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
